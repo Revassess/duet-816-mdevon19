@@ -24,7 +24,7 @@ public class Answer3Tests {
             SumOverArray.IterateAndSum(null);
             assertTrue(true);
         } catch (NullPointerException e) {
-           // fail(); // I commented this out, this was a null pointer exception and wouldnt let the test pass and I made my own test and they all passed.
+           fail();
         }
         int [] arr2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
         assertEquals(78, SumOverArray.IterateAndSum(arr2));
