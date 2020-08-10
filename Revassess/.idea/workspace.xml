@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="957843d0-6ad7-485d-a1bb-1cfad7586488" name="Default Changelist" comment="" />
+    <list default="true" id="7ec047c5-26c7-4bee-858f-353552bc5c00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/answer2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/answer2.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +14,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1fv8TveUsDgFye3Z2slXdZaYQWL" />
+  <component name="ProjectId" id="1fvC42DTbzsJwnkgQYdJZwZXw4O" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,112 +30,27 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.Answer3Tests.test3">
-    <configuration name="Answer1Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.revature.tier1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.revature.tier1" />
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.Answer1Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Answer2Tests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.revature.tier1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.revature.tier1" />
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.Answer2Tests" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Answer3Tests.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.revature.tier1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.revature.tier1" />
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.Answer3Tests" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.Answer3Tests.test3" />
-        <item itemvalue="JUnit.Answer2Tests.test2" />
-        <item itemvalue="JUnit.Answer1Tests.test1" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="957843d0-6ad7-485d-a1bb-1cfad7586488" name="Default Changelist" comment="" />
-      <created>1597087216088</created>
+      <changelist id="7ec047c5-26c7-4bee-858f-353552bc5c00" name="Default Changelist" comment="" />
+      <created>1597088984180</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1597087216088</updated>
-      <workItem from="1597087219509" duration="27000" />
-      <workItem from="1597087283541" duration="435000" />
+      <updated>1597088984180</updated>
+      <workItem from="1597088987270" duration="50000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597087718312">
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597089016174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.728@0.0.1920.1040" timestamp="1597087718312" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597087718312">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.728@0.0.1920.1040" timestamp="1597087718312" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597087718312">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.728@0.0.1920.1040" timestamp="1597087718312" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597087718312">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.728@0.0.1920.1040" timestamp="1597087718312" />
-    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597087294561">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1280.728@0.0.1920.1040" timestamp="1597087294561" />
+    <state x="664" y="412" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.0.1280.728@0.0.1920.1040" timestamp="1597089016174" />
   </component>
 </project>
