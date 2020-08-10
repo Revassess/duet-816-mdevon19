@@ -7,7 +7,7 @@ public class SumOverArray {
 		int sum1 = 0;
 
 
-		for (int i = 0; i <= arr.length; i++){
+		for (int i = 0; i < arr.length; i++){
 			sum1 += arr[i];
 		}
 
