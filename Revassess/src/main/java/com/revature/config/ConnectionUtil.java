@@ -11,6 +11,7 @@ import java.sql.Connection;
  *         CHANGE THE MODIFIERS OR THE NAMES OF THE VARIABLES. These are used to
  *         test your db schema.
  */
+//
 public class ConnectionUtil {
 	//for singleton instance
 	private static ConnectionUtil cu;
