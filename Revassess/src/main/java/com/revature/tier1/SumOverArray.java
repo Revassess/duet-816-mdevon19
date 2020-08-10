@@ -8,7 +8,7 @@ public class SumOverArray {
 
 
 		for (int i = 0; i <= arr.length; i++){
-			sum1 += i;
+			sum1 += arr[i];
 		}
 
 		return sum1;
