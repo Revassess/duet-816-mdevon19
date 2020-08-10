@@ -1,0 +1,1 @@
+Select * from APP_USER where role_id=(select role_id from user_role where name='BASIC_USER');
