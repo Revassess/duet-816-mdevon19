@@ -1,16 +1,13 @@
 package com.revature.tier1;
 
+import java.util.stream.*;
+
 public class SumOverArray {
 
 	public static int IterateAndSum(int[] arr) {
 
-		int sum1 = 0;
+		int sum = IntStream.of(arr).sum();
 
-
-		for (int i = 0; i < arr.length; i++){
-			sum1 = sum1 + arr[i];
-		}
-
-		return sum1;
+		return sum;
 	}
 }
