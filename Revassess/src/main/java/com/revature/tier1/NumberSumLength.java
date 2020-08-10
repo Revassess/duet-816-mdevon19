@@ -5,7 +5,7 @@ public class NumberSumLength {
 	public static boolean checkNumberPowerLength(long num) {
 
 
-		
+
 
 
 
